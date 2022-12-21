@@ -1,0 +1,17 @@
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.csproj.AssemblyReference.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.AssemblyInfoInputs.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.AssemblyInfo.cs
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.DAL.deps.json
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.DAL.runtimeconfig.json
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.DAL.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.DAL.pdb
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.Entities.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\bin\Debug\net6.0\CRM-Area-Replace.Entities.pdb
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.csproj.CopyComplete
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\refint\CRM-Area-Replace.DAL.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.pdb
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\CRM-Area-Replace.DAL.genruntimeconfig.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.DAL\obj\Debug\net6.0\ref\CRM-Area-Replace.DAL.dll

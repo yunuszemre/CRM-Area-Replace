@@ -1,0 +1,12 @@
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\bin\Debug\net6.0\CRM-Area-Replace.Entities.deps.json
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\bin\Debug\net6.0\CRM-Area-Replace.Entities.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\bin\Debug\net6.0\CRM-Area-Replace.Entities.pdb
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.csproj.AssemblyReference.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.AssemblyInfoInputs.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.AssemblyInfo.cs
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\refint\CRM-Area-Replace.Entities.dll
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\CRM-Area-Replace.Entities.pdb
+C:\Users\Yunus\source\repos\CRM-Area-Replace\CRM-Area-Replace.Entities\obj\Debug\net6.0\ref\CRM-Area-Replace.Entities.dll
