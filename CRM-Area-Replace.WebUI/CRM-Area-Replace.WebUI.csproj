@@ -8029,6 +8029,7 @@
       <PrivateAssets>all</PrivateAssets>
       <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
     </PackageReference>
+    <PackageReference Include="Microsoft.VisualStudio.Web.CodeGeneration.Design" Version="6.0.11" />
   </ItemGroup>
 
   <ItemGroup>
@@ -8045,6 +8046,8 @@
   </ItemGroup>
 
   <ItemGroup>
+    <Folder Include="Areas\Identity\Data\" />
+    <Folder Include="Areas\Identity\Models\" />
     <Folder Include="wwwroot\bower_components\codemirror\mode\rpm\changes\" />
     <Folder Include="wwwroot\bower_components\jQuery-contextMenu\documentation\demo\" />
     <Folder Include="wwwroot\bower_components\jQuery-contextMenu\documentation\docs\" />

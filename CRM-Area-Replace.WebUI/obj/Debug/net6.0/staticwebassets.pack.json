@@ -993,6 +993,10 @@
       "PackagePath": "staticwebassets\\assets\\img\\others\\html5-css-javascript-logos.png"
     },
     {
+      "Id": "C:\\Users\\Yunus\\source\\repos\\CRM-Area-Replace\\CRM-Area-Replace.WebUI\\wwwroot\\assets\\img\\others\\loginSc.png",
+      "PackagePath": "staticwebassets\\assets\\img\\others\\loginSc.png"
+    },
+    {
       "Id": "C:\\Users\\Yunus\\source\\repos\\CRM-Area-Replace\\CRM-Area-Replace.WebUI\\wwwroot\\assets\\img\\others\\sabri-tuzcu-331970.jpg",
       "PackagePath": "staticwebassets\\assets\\img\\others\\sabri-tuzcu-331970.jpg"
     },

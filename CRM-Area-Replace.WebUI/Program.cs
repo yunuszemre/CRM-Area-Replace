@@ -1,5 +1,6 @@
 using CRM_Area_Replace.DAL.Concreate.EF.Context;
 using CRM_Area_Replace.Entities.Concreate;
+using Microsoft.AspNetCore.Builder;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -32,6 +33,10 @@ app.UseStaticFiles();
 app.UseRouting();
 
 app.UseAuthorization();
+
+app.MapControllerRoute(
+	name: "areas", 
+	pattern: "{area:exists}/{controller=Home}/{action=Index}/{id?}");
 
 app.MapControllerRoute(
 	name: "default",

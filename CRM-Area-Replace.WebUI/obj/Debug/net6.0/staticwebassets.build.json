@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4xoHRuZxqk5vwbs4T4TggnK/z6EhADhqPqXcE+QoeMI=",
+  "Hash": "p4VpjeRs7zpXtWnOPEn8H1sZxzwBftpY/LymfUgCfBg=",
   "Source": "CRM-Area-Replace.WebUI",
   "BasePath": "_content/CRM-Area-Replace.WebUI",
   "Mode": "Default",
@@ -5268,6 +5268,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\assets\\img\\others\\html5-css-javascript-logos.png"
+    },
+    {
+      "Identity": "C:\\Users\\Yunus\\source\\repos\\CRM-Area-Replace\\CRM-Area-Replace.WebUI\\wwwroot\\assets\\img\\others\\loginSc.png",
+      "SourceId": "CRM-Area-Replace.WebUI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Yunus\\source\\repos\\CRM-Area-Replace\\CRM-Area-Replace.WebUI\\wwwroot\\",
+      "BasePath": "_content/CRM-Area-Replace.WebUI",
+      "RelativePath": "assets/img/others/loginSc.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\img\\others\\loginSc.png"
     },
     {
       "Identity": "C:\\Users\\Yunus\\source\\repos\\CRM-Area-Replace\\CRM-Area-Replace.WebUI\\wwwroot\\assets\\img\\others\\sabri-tuzcu-331970.jpg",
